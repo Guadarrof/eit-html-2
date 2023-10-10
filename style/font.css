@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "varsity";
+    src:url(./font/varsity_regular.ttf);
+}
+
+/* Ejemplo si existiera mas de un peso. Tmabien puedo modificar el nombre del family
+
+@font-face {
+    font-family: "varsity";
+    src:url(./font/varsity_regular.ttf);
+    font-weight: 400;
+
+@font-face {
+    font-family: "varsity";
+    src:url(./font/varsity_medium.ttf);
+    font-weight: 700;
+
+} */
